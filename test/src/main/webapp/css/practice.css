@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+<style>
+#draggable1 {
+	width: 100px;
+	height: 100px;
+	padding: 0.5em;
+	
+}
+
+#draggable2 {
+	width: 200px;
+	height: 100px;
+	padding: 0.5em;
+	
+}
+
+</style>
